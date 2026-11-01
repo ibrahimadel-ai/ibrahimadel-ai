@@ -2,7 +2,7 @@
 ### AI Systems Architect & Founder @ MuseOS Labs
 **Building High-Performance Autonomous Task Agents, Production LLM Infrastructure & Distributed Multi-Model Systems.**
 
-[[https://img.shields.io/badge/LinkedIn-Ibrahim%20Adel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white]](https://www.linkedin.com/in/ibrahim-adel-pro-ai)
+![[https://img.shields.io/badge/LinkedIn-Ibrahim%20Adel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white]](https://www.linkedin.com/in/ibrahim-adel-pro-ai)
 [[https://img.shields.io/badge/Hugging%20Face-MuseOS%20Labs-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black]](https://huggingface.co/MuseOS-Labs)
 [[https://img.shields.io/badge/GitHub-ibrahimadel--ai-181717?style=for-the-badge&logo=github&logoColor=white]](https://github.com/ibrahimadel-ai)
 [[https://img.shields.io/badge/Nebius%20AI%20Builders-Approved%20Builder-6B4FBB?style=for-the-badge]](https://tokenfactory.nebius.com)
